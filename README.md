@@ -19,3 +19,5 @@ And three testing files:
   
 Part 2. Word Generation.  
 Generated two 500 word documents (ted.out and reddit.out) using the language models which gives the lowest perplexity on the in-domain test.  
+
+NOTE: The perplexities are very high and the word generation wouldn't make sense, the purpose of this repo is to undertand the math behind markov models as naive language models and different approaches using them.
