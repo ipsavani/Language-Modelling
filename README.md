@@ -1,8 +1,8 @@
 # Language-Modelling
 implemented Markov models from scratch on three real world datasets.  
 
-Part 1. Language Modelling  
-Details: The task is to create an n-gram language model on different domains.  
+Part 1. Language Modelling.  
+The task is to create an n-gram language model on different domains.  
 The datasets include TED Talks, Reddit, and News domain. There are two training files:  
 • ted.txt  
 • reddit.txt  
